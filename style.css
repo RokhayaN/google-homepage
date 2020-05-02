@@ -1,0 +1,11 @@
+#logo{
+    display:inline-block;
+    position:relative;
+    height:220px;
+    width:550px;
+    padding:center;
+    -webkit-user-select: none;
+    margin: auto;
+    cursor: zoom-in;
+    text-align :center;
+};
